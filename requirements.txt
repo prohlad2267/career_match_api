@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+pdfminer.six
+spacy
+python-docx
+django-cors-headers
+PyPDF2
+docx2txt
+psycopg2-binary
+requests
+pytest
+pytest-django
